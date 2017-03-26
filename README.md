@@ -1,4 +1,4 @@
-# MortgageQuestions
+# mortgage-questions
 
 Shows 5 standard mortgage FAQs. 
 
